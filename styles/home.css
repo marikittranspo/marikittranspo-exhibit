@@ -1,5 +1,5 @@
 body {
-  height: 115vh;
+  height: 100vh;
 }
 
 .search-container {
@@ -104,6 +104,6 @@ body {
 
 .square-background {
   width: 100%; 
-  height: 30vh; 
+  height: 40vh; 
   background-color: #FAF9F6;
 }
