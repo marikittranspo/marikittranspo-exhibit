@@ -135,7 +135,7 @@ h3 {
 .top-nav {
   position: fixed;
   top: 0; 
-  background-image: ("./pictures/marikit.png");
+  background-image: (url('/pictures/marikit.png');
   height: 50px; 
   width: 100%;
   color: white;
